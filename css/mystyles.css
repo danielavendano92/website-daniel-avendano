@@ -1,0 +1,23 @@
+/*Daniel Avendano, Last edited 4/16/2022*/
+
+
+.header {
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    height: 70px;
+    z-index: 3;
+    background-color: #7c4949;
+}
+.normal {
+    font-style: normal;
+    color: black;
+}
+.bold {
+    font-style: normal;
+    font-weight: bold;
+}
+li {
+    font-style: italic;
+    font-weight: normal;
+}
